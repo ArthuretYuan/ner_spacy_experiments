@@ -29,3 +29,6 @@ dist/
 
 # output models
 output/
+
+data/
+secret.env
